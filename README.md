@@ -1,3 +1,3 @@
 # brushless-DC-motor
  
- QS-909 JYQD chip is a brushless DC motor controll driver with direction and speed control with heat sink.
+ QS-909 JYQD chip is a brushless DC motor controll driver with direction and speed control with heat sink.Brushless motors offer several advantages over brushed DC motors, including high torque to weight ratio, increased efficiency producing more torque per watt, increased reliability, reduced noise, longer lifetime by eliminating brush and commutator erosion, elimination of ionizing sparks from the commutator, and an overall reduction of electromagnetic interference (EMI). With no windings on the rotor, they are not subjected to centrifugal forces, and because the windings are supported by the housing, they can be cooled by conduction, requiring no airflow inside the motor for cooling. This in turn means that the motor's internals can be entirely enclosed and protected from dirt or other foreign matter.
